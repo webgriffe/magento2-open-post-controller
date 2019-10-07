@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "magento/product-community-edition": "^2.0"
+        "magento/product-community-edition": "^2.3"
     },
     "autoload": {
         "psr-4": {
